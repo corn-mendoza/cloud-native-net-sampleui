@@ -1,0 +1,8 @@
+---
+applications:
+- name: <enter name here>
+instances: 1
+memory: 256M
+path: ./bin/release/netcoreapp1.1/publish
+services:
+- <enter registry instance name here>
